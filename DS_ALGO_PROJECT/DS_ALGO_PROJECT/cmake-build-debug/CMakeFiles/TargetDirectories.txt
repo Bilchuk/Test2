@@ -1,0 +1,3 @@
+C:/Users/rom_k/CLionProjects/DS_ALGO_PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rom_k/CLionProjects/DS_ALGO_PROJECT/cmake-build-debug/CMakeFiles/DS_ALGO_PROJECT.dir
+C:/Users/rom_k/CLionProjects/DS_ALGO_PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
